@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "img": "mac-pro.jpg",
+      "title": "Apple MacBook Pro",
+      "count": 12,
+      "price": 199000,
+      "priceTotal": 2388000,
+      "id": 9
+    },
+    {
+      "img": "imac.jpg",
+      "title": "Apple MacBook Air 13",
+      "count": 1,
+      "price": 185000,
+      "priceTotal": 185000,
+      "id": 11
+    },
+    {
+      "img": "iphon14.jpeg",
+      "title": "Apple iMac",
+      "count": 1,
+      "price": 115000,
+      "priceTotal": 115000,
+      "id": 12
+    },
+    {
+      "img": "macbook.jpg",
+      "title": "Apple MacBook Air 13",
+      "count": 1,
+      "price": 115000,
+      "priceTotal": 115000,
+      "id": 13
+    },
+    {
+      "img": "imac.jpg",
+      "title": "Apple MacBook Pro",
+      "count": 1,
+      "price": 115000,
+      "priceTotal": 115000,
+      "id": 15
+    },
+    {
+      "img": "macbook.jpg",
+      "title": "Apple MacBook Pro",
+      "count": 1,
+      "price": 115000,
+      "priceTotal": 115000,
+      "id": 17
+    },
+    {
+      "img": "iphon14.jpeg",
+      "title": "Apple iMac",
+      "count": 1,
+      "price": 185000,
+      "priceTotal": 185000,
+      "id": 18
+    },
+    {
+      "img": "imac.jpg",
+      "title": "Apple MacBook Pro",
+      "count": 1,
+      "price": 199000,
+      "priceTotal": 199000,
+      "id": 19
+    },
+    {
+      "img": "iphon14.jpeg",
+      "title": "Apple iMac",
+      "count": 1,
+      "price": 269000,
+      "priceTotal": 269000,
+      "id": 20
+    },
+    {
+      "img": "macbook.jpg",
+      "title": "Apple MacBook Air 13",
+      "count": 3,
+      "price": 199000,
+      "priceTotal": 597000,
+      "id": 21
+    }
+  ]
+}
